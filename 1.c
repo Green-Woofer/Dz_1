@@ -18,4 +18,5 @@ int main()
 			printf("0");
 		num <<= 1;
 	}
+	return 0;
 }
